@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/chapter-1/</link>
+      <link>https://example.org/posts/chapter-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/chapter-1/</guid>
+      <guid>https://example.org/posts/chapter-1/</guid>
       <description>&lt;h1 id=&#34;جزيرة-الطواويس&#34;&gt;جزيرة الطواويس&lt;/h1&gt;&#xA;&lt;h3 id=&#34;الفصل-الاول&#34;&gt;الفصل الاول&lt;/h3&gt;&#xA;&lt;p&gt;كان يا مكان في قديم الزمان..  كان في  غرابين اخوان، في جزيرة مليانة طواويس. الطواويس كانت متبخترة، بريشها البيلمع وذيولها الطويلة، والغرابين كانوا صغار، ريشهم اسود، وحجمهم ضئيل. ما كانوا قادرين يتكلموا مع الطواويس، بس يتفرجوا من بعيد.&lt;/p&gt;&#xA;&lt;p&gt;الغرابين كان بيحاولوا يتعلموا كيف يطيروا، كل يوم يجرّبوا ويقعوا، لحدي ما في يوم وقع الغراب الصغير وقعة حارة شديد، كسر جناحو. من اليوم داك، أخوه الكبير قال خلاص، ما حنجرب نطير تاني. الغراب الكبير خاف علىش أخوه، وقال أحسن نقعد ساي.الغراب الصغير جابراه الفطرة بس ما لقى كلام يواجهه بيه. &lt;/p&gt;</description>
     </item>
   </channel>
